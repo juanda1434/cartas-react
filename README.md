@@ -1,3 +1,9 @@
+# Ejercicio de cartas realizado con react
+Ejercicio de cartas realizado con react
+
+gh-pages : https://juanda1434.github.io/cartas-react/
+repo : https://github.com/juanda1434/cartas-react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
