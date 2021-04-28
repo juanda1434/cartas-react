@@ -13,7 +13,7 @@ const style = {
 }
 
 const Contenedor = ()=>{
-    const [cartas,setCartas]=useLocalStorage("cartas","https://carlosreneas.github.io/endpoints/cartas.json");
+    const [cartas,setCartas]=useLocalStorage("cartas1","https://carlosreneas.github.io/endpoints/cartas.json");
 
     return (
         <Fragment>
