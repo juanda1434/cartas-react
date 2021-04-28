@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cartas-react/static/css/main.69e921ed.chunk.css",
-    "main.js": "/cartas-react/static/js/main.429401ec.chunk.js",
-    "main.js.map": "/cartas-react/static/js/main.429401ec.chunk.js.map",
+    "main.js": "/cartas-react/static/js/main.5823ea98.chunk.js",
+    "main.js.map": "/cartas-react/static/js/main.5823ea98.chunk.js.map",
     "runtime-main.js": "/cartas-react/static/js/runtime-main.989d7cd5.js",
     "runtime-main.js.map": "/cartas-react/static/js/runtime-main.989d7cd5.js.map",
     "static/js/2.a0e5a30c.chunk.js": "/cartas-react/static/js/2.a0e5a30c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.989d7cd5.js",
     "static/js/2.a0e5a30c.chunk.js",
     "static/css/main.69e921ed.chunk.css",
-    "static/js/main.429401ec.chunk.js"
+    "static/js/main.5823ea98.chunk.js"
   ]
 }
