@@ -12,8 +12,9 @@ const style = {
     }
     
 }
+//Genera componentes Tr dependiendo de las cartas que se le pasen y ordena las cartas
 const getTr = (cartas) => {
-    return cartas.map(c => 
+    return cartas.slice().sort((c1,c2)=>c1.valor>c2.valor?-1:1).map(c => 
         <Tr key={c.numero}><Td children={c.numero}/><Td children={c.carta}/><Td children={c.valor}/></Tr>
     );
 }
